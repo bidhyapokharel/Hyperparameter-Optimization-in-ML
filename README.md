@@ -84,8 +84,3 @@ Sample code for hyper-parameter optimization implementation for machine learning
 * [optunity](https://github.com/claesenm/optunity)  
 * [DEAP](https://github.com/rsteca/sklearn-deap)  
 * [TPOT](https://github.com/EpistasisLab/tpot)  
-
-## Contact-Info
-Please feel free to contact me for any questions.
-* Email: [praveen.kumar@zummitlabs.com](mailto:praveen.kumar@zummitlabs.com)
-* LinkedIn: [Praveen Kumar](https://www.linkedin.com/in/praveen-zummit/)  
